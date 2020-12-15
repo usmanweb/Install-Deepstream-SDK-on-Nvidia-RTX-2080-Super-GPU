@@ -15,5 +15,5 @@ Optionally install additional dependencies required by specific samples.\
    $ sudo apt install python3-numpy\
    $ sudo apt install libgstrtspserver-1.0-0 gstreamer1.0-rtsp\
    $ sudo apt install libgirepository1.0-dev\
-   $ sudo apt install gobject-introspection gir1.2-gst-rtsp-server-1.0\
+   $ sudo apt install gobject-introspection gir1.2-gst-rtsp-server-1.0
 
