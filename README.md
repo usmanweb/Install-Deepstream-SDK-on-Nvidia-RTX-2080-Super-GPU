@@ -1,8 +1,8 @@
 # Install Deepstream SDK on Nvidia RTX 2080 Super GPU
 (For other GPUs see driver version: https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html)
 
-## Follow this tutorial: https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html
-with exception: ## You must install the following components: - Ubuntu 18.04 - GStreamer 1.14.1 - NVIDIA driver 440.33 - CUDA 10.2 - TensorRT 7.0.X 
+## Follow this tutorial: https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Quickstart.html#dgpu-setup-for-ubuntu
+Follow section dGPU setup for Ubuntu with exception: ## You must install the following components: - Ubuntu 18.04 - GStreamer 1.14.1 - **NVIDIA driver 440.33** - CUDA 10.2 - TensorRT 7.0.X 
 
 ## To run DeepStream Python Apps:
 
